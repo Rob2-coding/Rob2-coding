@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Robin 👋
+### I'm a student at EPFL in chemical and chemical engineering bachelor
 <!--
 **Rob2-coding/Rob2-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
